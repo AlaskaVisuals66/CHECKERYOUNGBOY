@@ -6,7 +6,7 @@ echo "\n[+] Output:"
 curl=`cat <<EOS
 curl -s https://api.openai.com/v1/completions \
   -H 'Content-Type: application/json' \
-  -H "Authorization: Bearer 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" \
+  -H "Authorization: Bearer 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" \
   -d '{
   "model": "text-davinci-003",
   "prompt": "$1",
