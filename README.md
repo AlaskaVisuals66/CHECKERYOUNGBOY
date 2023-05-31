@@ -1,2 +1,0 @@
-# CHECKERYOUNGBOY
-Checker 
